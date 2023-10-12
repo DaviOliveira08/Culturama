@@ -22,7 +22,7 @@ O objetivo do Culturama é criar uma plataforma digital que promova e compartilh
 
 ## Como Testar
 
-Para testar a responsividade do AluraPlay, basta abrir o site em diferentes dispositivos ou em um emulador responsivo no seu navegador.
+Para testar a responsividade do Culturama, basta abrir o site em diferentes dispositivos ou em um emulador responsivo no seu navegador.
 
 ## Como Contribuir
 
